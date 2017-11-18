@@ -1,0 +1,10 @@
+body,html{
+	height:100%;
+	width:100%;
+	background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/00/01/38/1156014b2176aaa.jpg");
+	background-repeat: no-repeat;
+	position:center;
+	background-size:cover;
+	background-attachment: fixed;
+	margin-top: 100px;
+}
